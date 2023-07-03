@@ -1,3 +1,3 @@
 # portfolio
 
-Acesso rápido: 
+Acesso rápido: https://laragabrielly.github.io/portfolio/
